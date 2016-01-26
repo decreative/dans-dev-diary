@@ -5,11 +5,11 @@ subtitle: Things I have done
 permalink: /portfolio/
 ---
 # Web Apps
-[Mistyline - Ruby on Rails / NGINX / SLIM / Linux ](http://mistyline.jp/)
+[Mistyline - Ruby on Rails / NGINX / SLIM / Linux ](http://mistyline.jp/){:target="_blank"}
 
 ***Japanese fortune telling web service build at Japanese startup***
 
-[Omps - Ruby on Rails / NGINX / Linux ](http://omp-s.com/)
+[Omps - Ruby on Rails / NGINX / Linux ](http://omp-s.com/){:target="_blank"}
 
 ***Japanese music media curation build at Japanese startup***
 
@@ -19,7 +19,7 @@ Scorecast Online - Ruby on Rails / NGINX / AWS / Postgres (Currently Coding)
 
 
 # iOS Apps
-[Mistyline Fortune Telling App - Swift / Cocoa Pods ](https://itunes.apple.com/jp/app/dian-hua-zhanimisutirain/id1017207498?mt=8)
+[Mistyline Fortune Telling App - Swift / Cocoa Pods ](https://itunes.apple.com/jp/app/dian-hua-zhanimisutirain/id1017207498?mt=8){:target="_blank"}
 
 ***Ported Mistyline Web application onto the iOS platform***
 
@@ -28,23 +28,23 @@ BandoMan - Swift 2.0 / Cocoa pods (Currently Coding)
 ***An app that lets you find live music events in Tokyo, Japan***
 
 # Websites
-[Deane Odgen - WordPress / SASS / SEO ](http://www.deaneogden.com/)
+[Deane Odgen - WordPress / SASS / SEO ](http://www.deaneogden.com/){:target="_blank"}
 
 ***Personal website for Deane Ogden - Music consultant for Warner Bros / Universal Music , Film Composer and International Recording Artist***
 
 
-[Elvis Parks Festival - WordPress / SASS / SEO ](http://www.parkeselvisfestival.com.au/)
+[Elvis Parks Festival - WordPress / SASS / SEO ](http://www.parkeselvisfestival.com.au/){:target="_blank"}
 
 ***Festival Dedicated to Elvis the king of Rock and Roll based in Parks, Australia***
 
-[morei - SASS/ HTML5 / CSS3 / Design ](http://morei.co/)
+[morei - SASS/ HTML5 / CSS3 / Design ](http://morei.co/){:target="_blank"}
 
 ***Japanese startup that teaches women and university students web skills and places students into startup jobs***
 
-[Sweet Swift - SASS/ HTML5 / CSS3 / Design ](http://sweetswift.me/)
+[Sweet Swift - SASS/ HTML5 / CSS3 / Design ](http://sweetswift.me/){:target="_blank"}
 
 ***Sweet Swift is a project started by morei that teaches girls programming skills in Swift and Web***
 
-[Akiba Retro Games - Shopify / HTML5 / CSS3 / Design ](http://akibaretrogames.com/)
+[Akiba Retro Games - Shopify / HTML5 / CSS3 / Design ](http://akibaretrogames.com/){:target="_blank"}
 
 ***Shopify store that sells retro Japanese game consoles to customers in France***

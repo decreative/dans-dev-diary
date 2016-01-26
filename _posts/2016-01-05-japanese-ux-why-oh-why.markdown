@@ -18,6 +18,6 @@ What you will see generally see in Japanese websites
 
 While I do complain about the general state of things for UX and UI there is a company here in Tokyo that is doing it in the right way.
 
-**[GoodPatch](http://goodpatch.com/)** are a Tokyo based UI Agency that have produced some of the most UI friendly web services in Japan. If you are curious to see what its like when eastern design and modern web practices are combined together I highly recommend you check these guys out as they have produced some of the nicest UI ever seen in Japan.
+**[GoodPatch](http://goodpatch.com/){:target="_blank"}** are a Tokyo based UI Agency that have produced some of the most UI friendly web services in Japan. If you are curious to see what its like when eastern design and modern web practices are combined together I highly recommend you check these guys out as they have produced some of the nicest UI ever seen in Japan.
 
 So the future for web design in Tokyo is looking a little bright looking forward to seeing what will happen over the next couple of years.

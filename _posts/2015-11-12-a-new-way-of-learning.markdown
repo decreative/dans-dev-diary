@@ -13,7 +13,7 @@ tags:
 
 Learning web development is a long path and you never really stop learning! But there are some really great resources to learn practical web development. To take you from having no skills to being employable.
 
-![Treehouse Logo](/assets/images/treehouse_logo.png)
+![Treehouse Logo](/assets/images/treehouse_logo.png){:target="_blank"}
 
 From my personal experience I have learn so much from Team treehouse about so many areas of web development. They are great for beginners or more intermediate developers who are trying to approach a new technology.
 
