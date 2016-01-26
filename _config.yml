@@ -1,18 +1,15 @@
 # Site settings
 title: Dan's Dev Diary
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Diary of a Music Producer turn Web Developer living in Tokyo, Japan. Working with startups to build apps that disrupt and innovate.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 author:
   fullname: Daniel Eddy
-  googleplus: https://www.google.com/+MotaquillahMaddane
   github: z-daniel
-  twitter: electrik_frog
+  twitter: decreativedan
   # disqus: your_disqus_username
 
 # google_analytics: 'UA-XXXXXXXX-X'
