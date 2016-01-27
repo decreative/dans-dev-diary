@@ -11,6 +11,6 @@ Would I say I am an expert backend dev? NO WAY! But nor am I scared to get my ha
 
 You become more aware of backend performance, where the data is coming from, what stack is set up, what infrastructure the app is using. I know all this may seem overwhelming but it is actually quite the opposite is ENLIGHTENING. You appreciate what the connection between the two fields and you reach a level of harmony in how you see an app operate.
 
-Both fields are needed in order to work with each other and no one person can become a true expert in both but having the attitude to learn what your fellow developers do on day to day basis will not only open your mind to their way of thinking but also will make your development more fulfilling!
+Both fields are needed in order to work with each other and no one person can become a true expert in both but having the attitude to learn what your fellow developers do on a day to day basis will not only open your mind to their way of thinking but also will make your development more fulfilling!
 
 So with that in mind GO FORTH AND DEVELOP!
