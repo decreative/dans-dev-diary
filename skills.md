@@ -60,4 +60,4 @@ Sketch
 # Resources I use
 [Team Treehouse](https://teamtreehouse.com/) ***A library or web dev videos and web conferences***
 
-[Lynda](http://www.lynda.com/) *** General Video Library of Content***
+[Lynda](http://www.lynda.com/) ***General Video Library of Content***
