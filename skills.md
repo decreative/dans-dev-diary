@@ -9,9 +9,9 @@ Bootstrap / Foundation / MaterializeCSS
 
 SASS / LESS / CSS3 / HTML5
 
-WordPress / Shopify
+WordPress / Shopifyv / LAMP Stack
 
-Javascript / Node.js / React.js / jQuery
+Javascript / Node.js / React.js / jQuery / Gulp.js / Bower.js
 
 # Things I am good at:
 Ruby on Rails
