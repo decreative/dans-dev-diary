@@ -28,6 +28,8 @@ Recently in my free time I have been helping a startup called [morei](http://mor
 
 I also have started a small production shop called deCreative where I do things like music production, video editing and web development mainly on personal and freelance projects.
 
-***Right now I am looking for a new opportunity to join a team and build something really cool! If you feel you have a project or know of a startup / company who needs a fullstack (80% frontend / 20% backend) type of dev drop me a line!***
+***Right now I am looking for a new opportunity to join a team and build something really cool! If you feel you have a project or know of a startup / company who needs a strong frontend dev who isn't afraid of backend black magic drop me a line!***
 
-***[RIGHT HERE](hello@danieleddytokyo.com)***
+Think we could work together?
+
+# ✉ [Yes I do](mailto:hello@danieleddytokyo.com)
