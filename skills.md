@@ -58,6 +58,6 @@ Sketch
 [Becoming a Better Programmer](http://shop.oreilly.com/product/0636920033929.do) ***by  Pete Goodliffe***
 
 # Resources I use
-[Team Treehouse](https://teamtreehouse.com/) ***A library or web dev videos and web conferences***
+[Team Treehouse](https://teamtreehouse.com/) ***A library of web dev videos and web conferences***
 
 [Lynda](http://www.lynda.com/) ***General Video Library of Content***
