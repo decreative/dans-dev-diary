@@ -3,8 +3,8 @@ title: Dan's Dev Diary
 description: >
   The Diary of a Music Producer turn Web Developer living in Tokyo, Japan. Working with startups to build apps that disrupt and innovate.
 
-baseurl: "/dans-dev-diary/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://dansdevdiary.me." # the base hostname & protocol for your site
 
 author:
   fullname: Daniel Eddy
