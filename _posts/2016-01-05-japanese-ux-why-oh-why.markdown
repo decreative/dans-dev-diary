@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: post
 title: "Japanese UX Why Oh Why!"
 date: "2015-12-05 01:37"
 categories: [design , web-development, japan]

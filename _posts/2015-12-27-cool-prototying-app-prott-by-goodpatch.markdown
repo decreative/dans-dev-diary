@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: post
 title: "Cool Prototying App Prott by GoodPatch"
 date: "2015-12-27 11:14"
 categories: [web-development]
