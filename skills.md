@@ -24,6 +24,8 @@ UI / UX Design
 
 MYSQL / Postgress
 
+Github / Bitbucket
+
 # Things I am learning:
 iOS / Swift 2.0
 
@@ -45,6 +47,8 @@ Adobe Photoshop
 Adobe Illustrator
 
 Sketch
+
+Slack / Trello / Hipchat / Asana / Skype
 
 # Books I Enjoy
 [Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4) ***by Sam Ruby***
