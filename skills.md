@@ -6,29 +6,44 @@ permalink: /skills/
 ---
 # Things I am great at:
 Bootstrap / Foundation / MaterializeCSS
+
 SASS / LESS / CSS3 / HTML5
+
 WordPress / Shopify
+
 Javascript / Node.js / React.js / jQuery
 
 # Things I am good at:
 Ruby on Rails
+
 Digital Ocean / Heroku
+
 Ember.js / BackBone.js / Angular.js
+
 UI / UX Design
+
 MYSQL / Postgress
 
 # Things I am learning:
 iOS / Swift 2.0
+
 Web Infrastructure / AWS
 
 # Software I use:
 Sublime 2 / ATOM
+
 RubyMine / PHP Storm
+
 Xcode 7.0
+
 Vim / iTerm2
+
 Adobe After Effects
+
 Adobe Photoshop
+
 Adobe Illustrator
+
 Sketch
 
 # Books I Enjoy
