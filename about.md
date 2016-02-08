@@ -5,7 +5,7 @@ subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
 
-I'm a web developer who originally began out as a music producer I started making band websites 4 years ago for friends. Little did I know it would start me down the path of web development. After discovering how much I loved making websites with HTML, CSS and Javascript I enrolled myself into an intense web bootcamp at a local collage.
+I'm an Australian web developer who originally began out as a music producer I started making band websites 4 years ago for friends. Little did I know it would start me down the path of web development. After discovering how much I loved making websites with HTML, CSS and Javascript I enrolled myself into an intense web bootcamp at a local collage.
 
 
 I also further augmented my learning by signing up for [Treehouse](http://teamtreehouse.com){:target="_blank"} where I got a solid grasp on the newer technologies being used in web like CSS preprocessors, Javascript task managers and many other build tools.
